@@ -65,26 +65,17 @@ PyQt5, Sockets, Supabase
 
 ### Clone the Repository:
 
-    ```bash
+    
     git clone https://github.com/Pudi-Sravan/Docify-TDoC.git
-    ```
-
-    ```bash
     cd your-repo-name 
-    ```
 
 ### Install Dependencies:
 
-    ```bash
     pip install -r requirements.txt
-    ```
+    
 
 ## To start the main application:
 
-    ```bash
     python3 main.py
-    ```
-
-    ```bash
     python3 server.py
-    ```
+
